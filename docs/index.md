@@ -7,7 +7,7 @@ hero:
   text: "A VitePress theme"
   tagline: 📝 Soothing pastel theme for VitePress
   image:
-    src: ./img/computer.jpeg
+    src: /img/computer.jpeg
     alt: Catppuccin logo
   actions:
     - theme: brand
