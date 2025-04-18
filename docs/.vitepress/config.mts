@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Desarrollo de Interfaces",
   description: "Apuntes de desarrollo de interfaces",
+  base: "/vite/",
   head: [
     [
       "link",
